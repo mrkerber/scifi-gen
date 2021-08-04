@@ -1,0 +1,1917 @@
+{
+    "subject": [
+        {
+            "word": "weapons",
+            "type": "A",
+            "scifi-related": "N"
+        },
+        {
+            "word:": "Soldiers",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Food",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Aliens",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Robots",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Lasers",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Construction Worker",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Flora",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Fauna",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Rebellion",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Rockets",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Asteroid",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Software",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Virus",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Pilot",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Astronaut",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Scientist",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Mathmetician",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Angels",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Demons",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Worm",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Fleet",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Clones",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Dynasty",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Computers",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Superhero",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Supervillain",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Monster",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Regime",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Bomb",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Follower",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Convict",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Humans",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Genius",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Vacuum",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Citizens",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Paramedic",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Doctor",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Pyschologist",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Historian",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Servant",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Champion",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Murderer",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Serial Killer",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Martian",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Assassin",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Thief",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Wizard",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Philosopher",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "detective",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "android",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "bounty hunter",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "survivor",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "writer",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "poet",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "journalist",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "king",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "queen",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "ruler",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "dictator",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "youth",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "elders",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "recruit",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "trooper",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "infantry",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "humankind",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "enemy",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "ally",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "siblings",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "prince",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "princess",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "dragon",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "technician",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "academic",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "monk",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "inventor",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "captain",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "creature",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "surgeon",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "mouse",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "alien race",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "hacker",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "villager",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "inhabitant",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "president",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "prime minister",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "employee",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "overlord",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "team",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "pilgrim",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "message",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "zombie",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "politician",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "civilian",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "horde",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "undead",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "farmer",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "private",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "colonel",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "general",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "god",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "deity",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "tortoise",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "dolphin",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "tiger",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "unicorn",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "liger",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "leader",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "ghost",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "mail carrier",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "spouse",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "pupil",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "student",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "teacher",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "vampire",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "family",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "sorcerer",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "professor",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Elf",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Orc",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Archer",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Knight",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "army",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "armada",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "engineer",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "giant",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "physicist",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "mother",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "father",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "son",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "daughter",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "witch",
+            "type:": "A",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "activist",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "special operative",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "entity",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "criminal",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "philologist",
+            "type:": "A",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Planet",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Galaxy",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Star",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Nebula",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Spaceship",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Ice-Hauler",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Space-freighter",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Civilization",
+            "type:": "E",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Colony",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Utopia",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Dystopia",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Humanity",
+            "type:": "E",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Government",
+            "type:": "E",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "plane",
+            "type:": "E",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "submarine",
+            "type:": "E",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "city",
+            "type:": "E",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "farm",
+            "type:": "E",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "generation",
+            "type:": "E",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "space probe",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "empire",
+            "type:": "E",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "comet",
+            "type:": "E",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Dyson Sphere",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Buildings",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Monolith",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Dark Matter",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Matter",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Stargate",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Airlock",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Moon base",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Space Station",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Physics",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Disease",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Habitat",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Structures",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Communications",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Elements",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Jetpack",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Neural Interface",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Cybernetics",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Video Game",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Time Machine",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Caste System",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Ringworld",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Binary System",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Kingdom",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Security Code",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Spacetime Continuum",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "plague",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "narcotic",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "drug",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Internet",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "expirement",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "teleport",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "war",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "orb of power",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "object",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "data",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "mission",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "conspiracy",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "conflict",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "wormhole",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "black hole",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "magic",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "volcano",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "casino",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "carnival",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "alliance",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "archive",
+            "type:": "P",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "cataclysm",
+            "type:": "P",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "realm",
+            "type:": "P",
+            "scifi-related:": "Y"
+        }
+    ],
+    "descriptor": [
+        {
+            "word:": "time-travelling",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "futuristic",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Militaristic",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Bio-enhanced",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "fortune-telling",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "omniscient",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Advanced",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "omnipotent",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Exploding",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Light-Speed",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Faster than Light",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Genetically Enhanced",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Laser-weilding",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Invisible",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Malfunctioning",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Gravity Defying",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Newly Discovered",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Orbiting",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Illegal",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Malicious",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Radioactive",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Depressed",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Quantum",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Martian",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Lunar",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "4th-Dimensional",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Cybernetically Enhanced",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Sword weilding",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Neurally-Linked",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Oppressive",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Rebellious",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Co-existing",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Nuclear",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Devoted",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Old",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Underwater",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Friendly",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Evil",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Powerful",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Reluctant",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Hyper-Intelligent",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Betrayed",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Treacherous",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Fierce",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Nomadic",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Barbaric",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Totalitarian",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Outlawed",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Prophetic",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Perilous",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Flawed",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Satirical",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Burned-Out",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Only-Remaining",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Obsolete",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Elite",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Formulaic",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Primitive",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Virtual",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Superhuman",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Magic",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Obssessive",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "unethical",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "creepy",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "influential",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "sophisticated",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "off-world",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "post-apocalyptic",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "immortal",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "banished",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "extraordinary",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Devestating",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Lone",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "VR",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "Tranquil",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "Doomed",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "young",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "naive",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "ruthless",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "violent",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "pyschological",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "expiremental",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "dystopian",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "utopian",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "allied",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "tough",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "universal",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "teleporting",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "frightening",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "abandoned",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "disastrous",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "one-armed",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "radical",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "aging",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "sentient",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "all-knowing",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "colonial",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "enterprising",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "imperialistic",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "revolutionary",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "unassuming",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "useless",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "subterranean",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "deranged",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "exotic",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "oceanic",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "ocean-welling",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "telepathic",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "mind-enhancing",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "destructive",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "epic",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "mystical",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "zealous",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "zany",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "devout",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "artifical",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "exiled",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "disgraced",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "downtrodden",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "anxious",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "holy",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "whimsical",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "bizzare",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "average",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "boring",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "chill",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "urban",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "rural",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "dominating",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "fearsome",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "cyptographic",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "subliminal",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "massive",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "The last",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "failing",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "ailing",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "successful",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "begrudging",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "super cool",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "interstellar",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "stellar",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "accidental",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "group of",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "indefinite",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "apocalyptic",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "devastated",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "rich",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "poor",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "nineteenth-century",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "stone-age",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "rival",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "vampirical",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "desparate",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "starving",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "chaotic",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "even-keeled",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "angry",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "generational",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "magical",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "hella muscular",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "pulpy",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "wily",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "emotionless",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "zombie-like",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "passionate",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "royal",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "impoverished",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "disease-ridden",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "awestricken",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "terrified",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "incredulous",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "incredible",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "edible",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "patriarchal",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "matriarchal",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "involved",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "conflicted",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "misunderstood",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "cylindrical",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "hyper-galactic",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "galactic",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "luxurious",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "gigantic",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "huge",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "distant",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "despondent",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "dispossessed",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "unwilling",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "immobile",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "immovable",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "brilliant",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "wicked",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "sinister",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "morose",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "green",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "unskilled",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "new",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "ancient",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "vengeful",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "dense",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "emperious",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "notorious",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "literal",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "over-literal",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "mesmerizing",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "unfunny",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "humorous",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "imaginitive",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "superintelligent",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "superstitious",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "hopeful",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "eccentric",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "obsessive",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "gifted",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "unique",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "dramatic",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "diabolical",
+            "scifi-related:": "N"
+        },
+        {
+            "word:": "supercooled",
+            "scifi-related:": "Y"
+        },
+        {
+            "word:": "cryptic",
+            "scifi-related:": "Y"
+        }
+    ]
+}
