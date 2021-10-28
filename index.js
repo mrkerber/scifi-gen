@@ -1,6 +1,7 @@
 import * as dataFunctions from './dataFunctions.js';
 import fs from 'fs'
 import 'colors';
+import * as twitterFunctions from './twitterFunctions.js';
 
 let runCount = 1;
 
@@ -33,7 +34,7 @@ const buildPhrase = async () => {
         phrase = segments[choicePath.indexOf('descriptor')]['segment'] + ' '
         + segments[choicePath.indexOf('subject')]['segment'] + ' '
         + segments[choicePath.indexOf('action')]['segment'];
-        if (logicFailure == 1) 
+        if (logicFailure == 1)
             console.log('\nUPDATE: 1) ' + segments[0]['segment'] + (' 2) ' + segments[1]['segment']).yellow.bold + ' 3) ' + segments[2]['segment']);
         else if (logicFailure == 2)
             console.log('\nUPDATE: 1) ' + segments[0]['segment'] + ' 2) ' + segments[1]['segment'] + (' 3) ' + segments[2]['segment']).yellow.bold);
@@ -118,7 +119,7 @@ const determinePhraseLogic = async (segments) => {
 
 const compareSegmentAttributes = async (segmentA, segmentB) => {
     let compatiblityString = '';
-    
+
     if (segmentA['anthropomorphic'] == 'Y' && segmentB['anthropomorphic'] == 'Y') {
         compatiblityString += 'anthropomorphic ';
     } if (segmentA['emotionable'] == 'Y' && segmentB['emotionable'] == 'Y') {
@@ -135,7 +136,7 @@ const compareSegmentAttributes = async (segmentA, segmentB) => {
 const checkScifiRelated = async (segments) => {
     if (segments[0]['scifi-related'] == 'N' && segments[1]['scifi-related'] == 'N' && segments[2]['scifi-related'] == 'N')
         return false;
-    else   
+    else
         return true;
 }
 
@@ -159,3 +160,5 @@ const saveOutput = async (phrase, isScifiRelated) => {
 
 for(let i=0; i<runCount; i++)
     await buildPhrase();
+
+twitterFunctions.postTweet("Grey Monster");
