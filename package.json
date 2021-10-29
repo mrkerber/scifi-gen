@@ -13,7 +13,9 @@
     "@tensorflow/tfjs": "^3.7.0",
     "colors": "^1.4.0",
     "dotenv": "^10.0.0",
+    "node-fetch": "^3.0.0",
     "pluralize": "^8.0.0",
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "unsplash-js": "^7.0.15"
   }
 }

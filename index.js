@@ -1,7 +1,8 @@
 import * as dataFunctions from './dataFunctions.js';
+import * as twitterFunctions from './twitterFunctions.js';
+import * as unsplashFunctions from './unsplashFunctions.js';
 import fs from 'fs'
 import 'colors';
-import * as twitterFunctions from './twitterFunctions.js';
 
 let runCount = 1;
 
@@ -54,6 +55,9 @@ const buildPhrase = async () => {
         buildPhrase();
     } else {
         console.log('\nEND: '+ (phrase).green.bold + ' - Iterations: ' + iteration);
+        console.log('Posting to Twitter: ' + (phrase));
+        twitterFunctions.postTweet(phrase);
+        console.log(await unsplashFunctions.fetchPicture(phrase));
         console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
     }
 }
@@ -161,4 +165,3 @@ const saveOutput = async (phrase, isScifiRelated) => {
 for(let i=0; i<runCount; i++)
     await buildPhrase();
 
-twitterFunctions.postTweet("Grey Monster");

@@ -15,7 +15,7 @@ var client = new twit({
 export const postTweet = async (statusString) => {
 
   client.post('statuses/update', {status: statusString}, function(err, data, response) {
-    console.log(data);
+    //console.log(data);
   })
 
   return('Tweet Posted');
