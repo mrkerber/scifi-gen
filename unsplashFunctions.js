@@ -26,7 +26,7 @@ export const fetchPicture = async (queryString) => {
             headers: {Authorization: 'Client-ID ' + process.env.UNSPLASH_ACCESS_KEY}
         })
         const buffer = await imageData.buffer();
-        fs.writeFile('./data/img/' + queryString + photo.id + '.png', buffer, () => {
+        fs.writeFile('./data/img/' + queryString + '_' + photo.id + '.png', buffer, () => {
             console.log('Image download complete');
         })
         // .then(res =>

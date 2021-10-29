@@ -50,14 +50,20 @@ const buildPhrase = async () => {
 
     let isScifiRelated = await checkScifiRelated(segments);
     saveOutput(phrase, isScifiRelated);
+
+    //NOT SCIFI RELATED. SAVE AND REROLL
     if (!isScifiRelated) {
         console.log(('REROLLING: Not Scifi-Related: "' + phrase + '"\n').yellow.bold);
         buildPhrase();
-    } else {
+    } 
+    
+    //SCIFI RELATED. DOWNLOAD IMAGE AND POST TWEET
+    else {
         console.log('\nEND: '+ (phrase).green.bold + ' - Iterations: ' + iteration);
         console.log('Posting to Twitter: ' + (phrase));
-        twitterFunctions.postTweet(phrase);
-        console.log(await unsplashFunctions.fetchPicture(phrase));
+        //console.log(await unsplashFunctions.fetchPicture(segments[choicePath.indexOf('subject')]['segment']));
+        console.log(await determineImageQuery(segments));
+        //twitterFunctions.postTweet(phrase);
         console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
     }
 }
@@ -160,6 +166,19 @@ const saveOutput = async (phrase, isScifiRelated) => {
             }
         });
     }
+}
+
+const determineImageQuery = async (segments) => {
+    let randomSegment = Math.floor(Math.random() * 2);
+    let descriptor = await segments[choicePath.indexOf('descriptor')]
+    let subject = await segments[choicePath.indexOf('subject')]
+    if (descriptor['scifi-related'] == 'Y') {
+        //Nested if statement to allow for random selection. Rule out descriptors with hyphens and spaces
+        if (randomSegment == 0 || subject['scifi-related'] == 'N')// && !descriptor['segment'].includes('-') && !descriptor['segment'].includes(' '))
+            return descriptor['segment'] 
+    }
+    //Give priority to subject
+    return subject['segment'];
 }
 
 for(let i=0; i<runCount; i++)

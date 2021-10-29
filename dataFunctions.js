@@ -34,64 +34,64 @@ export const findAction = async () => {
 
 /********** PHRASE LOGIC V2 ***********/
 
-const determinePhraseLogic = async (segments) => {
-    let logicFailure = 0;
-    let compatibilityString;
+// const determinePhraseLogic = async (segments) => {
+//     let logicFailure = 0;
+//     let compatibilityString;
 
-    /***** CHECK SEGMENT ONE AGAINST SEGMENT TWO *****/
-    compatibilityString = await compareSegmentAttributes(segments[0], segments[1])
+//     /***** CHECK SEGMENT ONE AGAINST SEGMENT TWO *****/
+//     compatibilityString = await compareSegmentAttributes(segments[0], segments[1])
 
-    if(compatibilityString === '') {
-        console.log(('ERROR: Incompatible(1-2): "' + segments[0].segment + '" WITH "' + segments[1].segment + '"').red.bold);
-        console.log('');
-        logicFailure = 1;
-        return logicFailure;
-    } else {
-        console.log('Compatible(1-3): ' + compatibilityString)
-    }
+//     if(compatibilityString === '') {
+//         console.log(('ERROR: Incompatible(1-2): "' + segments[0].segment + '" WITH "' + segments[1].segment + '"').red.bold);
+//         console.log('');
+//         logicFailure = 1;
+//         return logicFailure;
+//     } else {
+//         console.log('Compatible(1-3): ' + compatibilityString)
+//     }
 
-    /***** CHECK SEGMENT ONE AGAINST SEGMENT THREE *****/
-    compatibilityString = await compareSegmentAttributes(segments[0], segments[2])
+//     /***** CHECK SEGMENT ONE AGAINST SEGMENT THREE *****/
+//     compatibilityString = await compareSegmentAttributes(segments[0], segments[2])
 
-    if(compatibilityString === '') {
-        console.log(('ERROR: Incompatible(1-3): "' + segments[0].segment + '" WITH "' + segments[2].segment + '"').red.bold);
-        console.log('');
-        logicFailure = 2;
-        return logicFailure;
-    } else {
-        console.log('Compatible(1-3): ' + compatibilityString)
-    }
+//     if(compatibilityString === '') {
+//         console.log(('ERROR: Incompatible(1-3): "' + segments[0].segment + '" WITH "' + segments[2].segment + '"').red.bold);
+//         console.log('');
+//         logicFailure = 2;
+//         return logicFailure;
+//     } else {
+//         console.log('Compatible(1-3): ' + compatibilityString)
+//     }
 
-    /***** CHECK SEGMENT TWO AGAINST SEGMENT THREE *****/
-    compatibilityString = await compareSegmentAttributes(segments[1], segments[2])
+//     /***** CHECK SEGMENT TWO AGAINST SEGMENT THREE *****/
+//     compatibilityString = await compareSegmentAttributes(segments[1], segments[2])
 
-    if(compatibilityString === '') {
-        console.log(('ERROR: Incompatible(2-3): "' + segments[1].segment + '" WITH "' + segments[2].segment + '"').red.bold);
-        console.log('');
-        logicFailure = 2;
-        return logicFailure;
-    } else {
-        console.log('Compatible(2-3): ' + compatibilityString)
-    }
+//     if(compatibilityString === '') {
+//         console.log(('ERROR: Incompatible(2-3): "' + segments[1].segment + '" WITH "' + segments[2].segment + '"').red.bold);
+//         console.log('');
+//         logicFailure = 2;
+//         return logicFailure;
+//     } else {
+//         console.log('Compatible(2-3): ' + compatibilityString)
+//     }
 
-    return logicFailure;
-}
+//     return logicFailure;
+// }
 
-const compareSegmentAttributes = async (segmentA, segmentB) => {
-    let compatiblityString = '';
+// const compareSegmentAttributes = async (segmentA, segmentB) => {
+//     let compatiblityString = '';
     
-    if (segmentA['anthropomorphic'] == 'Y' && segmentB['anthropomorphic'] == 'Y') {
-        compatiblityString += 'anthropomorphic ';
-    } if (segmentA['emotionable'] == 'Y' && segmentB['emotionable'] == 'Y') {
-        compatiblityString += 'emotionable ';
-    } if (segmentA['technical'] == 'Y' && segmentB['technical'] == 'Y') {
-        compatiblityString += 'technical ';
-    } if (segmentA['locational'] == 'Y' && segmentB['locational'] == 'Y') {
-        compatiblityString += 'locational '
-    }
+//     if (segmentA['anthropomorphic'] == 'Y' && segmentB['anthropomorphic'] == 'Y') {
+//         compatiblityString += 'anthropomorphic ';
+//     } if (segmentA['emotionable'] == 'Y' && segmentB['emotionable'] == 'Y') {
+//         compatiblityString += 'emotionable ';
+//     } if (segmentA['technical'] == 'Y' && segmentB['technical'] == 'Y') {
+//         compatiblityString += 'technical ';
+//     } if (segmentA['locational'] == 'Y' && segmentB['locational'] == 'Y') {
+//         compatiblityString += 'locational '
+//     }
 
-    return compatiblityString;
-}
+//     return compatiblityString;
+// }
 
 
 

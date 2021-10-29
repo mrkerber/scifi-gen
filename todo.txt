@@ -1,0 +1,7 @@
+----------------------------------------------make the unsplash search word by word rather than full phrase
+In the data folder create a file of all image ids already used, search the list before tweet, if id has been used, reroll
+separate the two unsplash functions, fetch and download
+create a system for cleaning up and deleting old photos
+look into cronie for automating the bot
+fetch and save image author and add to tweet
+checkout depositphotos.com for images
