@@ -15,6 +15,7 @@
     "dotenv": "^10.0.0",
     "node-fetch": "^3.0.0",
     "pluralize": "^8.0.0",
+    "shutterstock-api": "^1.1.20",
     "twit": "^2.2.11",
     "unsplash-js": "^7.0.15"
   }

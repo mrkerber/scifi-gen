@@ -5,3 +5,5 @@ create a system for cleaning up and deleting old photos
 look into cronie for automating the bot
 fetch and save image author and add to tweet
 checkout depositphotos.com for images
+account for photos>8192x8192
+look into chunk uploading images to twitter

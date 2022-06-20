@@ -1,6 +1,7 @@
 import * as dataFunctions from './dataFunctions.js';
 import * as twitterFunctions from './twitterFunctions.js';
 import * as unsplashFunctions from './unsplashFunctions.js';
+//import * as shutterStockFunctions from './shutterstockFunctions.js'
 import fs from 'fs'
 import 'colors';
 
@@ -61,9 +62,12 @@ const buildPhrase = async () => {
     else {
         console.log('\nEND: '+ (phrase).green.bold + ' - Iterations: ' + iteration);
         console.log('Posting to Twitter: ' + (phrase));
-        //console.log(await unsplashFunctions.fetchPicture(segments[choicePath.indexOf('subject')]['segment']));
-        console.log(await determineImageQuery(segments));
-        //twitterFunctions.postTweet(phrase);
+        await unsplashFunctions.fetchPicture(await determineImageQuery(segments));
+        //One second delay to account for Pi compiling the image from Unsplash
+        // setTimeout(() => {
+        //     twitterFunctions.postTweet(phrase);
+        // }, 1000)
+        //await twitterFunctions.postTweet(phrase);
         console.log('~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~');
     }
 }
